@@ -2,7 +2,7 @@ build:
   version: "v2.0 QA"
 
 contact:
-  message: "Bank System - Account API"
+  message: "CAMBIAMOS EL PROPERTY QA - Bank System - Account API"
   details:
     name: "Pedro Perez."
     email: "pedroperezr@gmail.com"
