@@ -1,0 +1,10 @@
+build:
+  version: "v3.0 CARDS-Default"
+
+contact:
+  message: "Bank System - CARDS API"
+  details:
+    name: "Jhon Baeden - CARDS"
+    email: "JhonBaeden@hotmail.com"
+  phone-numbers:
+    -(57) 315600400 CARDS

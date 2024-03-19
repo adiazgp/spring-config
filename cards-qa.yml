@@ -1,0 +1,10 @@
+build:
+  version: "v2.0 CARDS-QA"
+
+contact:
+  message: "Bank QA_System - CARDS API"
+  details:
+    name: "Pedro Perez CARDS."
+    email: "pedroperezr@gmail.com"
+  phone-numbers:
+    -(57) 315600800

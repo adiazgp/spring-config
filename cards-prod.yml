@@ -1,0 +1,10 @@
+build:
+  version: "v1.0 CARDS_Produccion"
+
+contact:
+  message: "Bank Production_System - CARDS_API"
+  details:
+    name: "Mario Moreno."
+    email: "MarioMoreno@hotmail.com"
+  phone-numbers:
+    -(57) 315600900
